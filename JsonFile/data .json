@@ -1,0 +1,141 @@
+{
+  "mimeType": "image/jpeg",
+  "originalname": "image.jpg",
+  "name": "EastBridge-Science-Strategic",
+  "fileSize": 3326905,
+  "ocrInfomation": " EB/EastBridge The Science of Strategic Sourcing EastBridge Business Service(SIP)Co., Ltd Eva Hu Suite 1206, Talent Center, No.22 Shishan Road, Suzhou New District, Jiangsu, China 215011 General Manager  eva.hu@eb-intl.com 0512-68185996 www.eb-intl.com ",
+  "tags": [
+    {
+      "_id": "61dbcb237f33d600110bc4e5",
+      "label": "EastBridge",
+      "value": "EastBridge",
+      "dataType": "string"
+    },
+    {
+      "_id": "61dbcb237f33d600110bc4e6",
+      "label": "Science",
+      "value": "Science",
+      "dataType": "string"
+    },
+    {
+      "_id": "61dbcb237f33d600110bc4e7",
+      "label": "Strategic",
+      "value": "Strategic",
+      "dataType": "string"
+    },
+    {
+      "_id": "61dbcb237f33d600110bc4e8",
+      "label": "Sourcing",
+      "value": "Sourcing",
+      "dataType": "string"
+    },
+    {
+      "_id": "61dbcb237f33d600110bc4e9",
+      "label": "Business",
+      "value": "Business",
+      "dataType": "string"
+    },
+    {
+      "_id": "61dbcb237f33d600110bc4ea",
+      "label": "Service",
+      "value": "Service",
+      "dataType": "string"
+    },
+    {
+      "_id": "61dbcb237f33d600110bc4eb",
+      "label": "SIP",
+      "value": "SIP",
+      "dataType": "string"
+    },
+    {
+      "_id": "61dbcb237f33d600110bc4ec",
+      "label": "Ltd",
+      "value": "Ltd",
+      "dataType": "string"
+    },
+    {
+      "_id": "61dbcb237f33d600110bc4ed",
+      "label": "Eva",
+      "value": "Eva",
+      "dataType": "string"
+    },
+    {
+      "_id": "61dbcb237f33d600110bc4ee",
+      "label": "Suite",
+      "value": "Suite",
+      "dataType": "string"
+    }
+  ],
+  "extension": ".jpg",
+  "vaultId": "600adc8d009e8e001e920104",
+  "parentId": "6140289a982eb600111b0c02",
+  "documentFileVersions": [
+    {
+      "_id": "61dbcb237f33d600110bc4f6",
+      "s3FileId": "61dbcb237f33d600110bc4e4",
+      "name": "EastBridge-Science-Strategic",
+      "extension": ".jpg",
+      "mimeType": "image/jpeg",
+      "createdOn": 1641794339838,
+      "createdByUserId": "5de1cc84dacea60010793f73",
+      "fileSize": 3326905,
+      "fileHash": "e0a651729c2e3c40e8e39f10c185d73ec29c09ff20b19b742c2085b1e2a190f4",
+      "createdByUser": []
+    }
+  ],
+  "permissions": [
+    {
+      "entityType": "USER",
+      "entityId": "5de1cc84dacea60010793f73",
+      "permission": "CONTROL",
+      "firstName": "John",
+      "lastName": "Yick",
+      "email": "jyick@yicksolutions.com",
+      "title": "",
+      "gravatar": "",
+      "imageUrl": "https://api.modv.io/core/headerImage/5de1cc84dacea60010793f73.headerImage"
+    }
+  ],
+  "path": ",6140289a982eb600111b0c02,61dbcb237f33d600110bc4e4,",
+  "createdOn": 1641794339838,
+  "createdByUserId": "5de1cc84dacea60010793f73",
+  "lastModifiedOn": 1641794339838,
+  "lastModifiedByUserId": "5de1cc84dacea60010793f73",
+  "fileHash": "e0a651729c2e3c40e8e39f10c185d73ec29c09ff20b19b742c2085b1e2a190f4",
+  "deleted": false,
+  "createdByUser": {
+    "email": "jyick@yicksolutions.com",
+    "firstName": "John",
+    "lastName": "Yick",
+    "imageUrl": "https://api.modv.io/core/headerImage/5de1cc84dacea60010793f73.headerImage"
+  },
+  "lastModifiedByUser": {
+    "email": "jyick@yicksolutions.com",
+    "firstName": "John",
+    "lastName": "Yick",
+    "imageUrl": "https://api.modv.io/core/headerImage/5de1cc84dacea60010793f73.headerImage"
+  },
+  "metadata": [],
+  "customFields": [],
+  "parents": [
+    { "id": "600adc8d009e8e001e920104", "name": "TEST" },
+    { "id": "6140289a982eb600111b0c02", "name": "Image Merge Test" }
+  ],
+  "publicLinks": [],
+  "auditHistory": [
+    {
+      "entityId": "61dbcb237f33d600110bc4e4",
+      "entityType": "Document",
+      "userId": "5de1cc84dacea60010793f73",
+      "timestamp": 1641794339906,
+      "action": "Created",
+      "firstName": "John",
+      "lastName": "Yick",
+      "email": "jyick@yicksolutions.com",
+      "username": "jyick@yicksolutions.com"
+    }
+  ],
+  "id": "61dbcb237f33d600110bc4e4",
+  "favourite": false,
+  "versionHash": "de76717334c727c7582413d4f9dddda7"
+}
